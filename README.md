@@ -1,5 +1,3 @@
 # Tata_Portfolio
-MY name is Tata Subramanian
-I am a data analytics trainer by profession
-I am love riding playing with data
-In free time I ride my cycle
+# [MY name is Tata Subramanian] : "https://public.tableau.com/views/MyStravaactivity/Mystravaactivity?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link"
+
